@@ -2,7 +2,7 @@
 
 This is a simple application built using ReactJS and Javascript, which utilizes a public countries API to fetch country data and flag images, and displays them. The application allows sorting and searching.
 
-##Features
+## Features
 Display a list of countries along with information such as name, capital, population, and more.
 Display the flag of each country next to its name.
 Sort countries based on different criteria such as name, population, area, etc.
