@@ -16,7 +16,7 @@ View detailed information about a specific country, including languages, timezon
  - Install dependencies: `yarn`
  - Run the application: `yarn dev`
 
-##Technologies Used
+## Technologies Used
  - ReactJS
  - JavaScript
  - Countries API - A public API used to fetch country data and flag images.
